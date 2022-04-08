@@ -1,0 +1,214 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beepbop skdoo!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So, you’re here.. You’ve been all over the news lately.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Actually, maybe even a little too much, like, come on, rapping on top of a moving vehicle? That’s pretty reckless.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "even for a famous rapper..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bopo brep...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...annyway.. the reason I invited you over here to my voice channel was to negotiate a sponsorship deal!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " at your next big show, just find a way to slip in a promotion for nitro, and you’ll get to be.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "an official discord partner!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..be beepbop  beeeep beepbop beep beepaa boop bepo boop bap.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..what?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh! Sorry, I’m his girlfriend, I’ll translate..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "'oh whatever...'"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "In other words, he really isn’t interested in sponsorship deals right now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I would know because we’ve had discussions over previous offers before.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "baaaap bopo de."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Are you sure.. you’re really.. err.. missing out!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " I think we’ll be leaving."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "baaaap boop!"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "wumpus",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "err.. uhh.. WAIT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": " Huh?"
+		},
+		{
+			"speed": 0.065,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What if.. I... You.... OH! What if we have a rap battle, yea? I win, you accept the deal, I lose, I’ll stop botherin’ ya!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I really don’t th-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beepbop boop beepo beepo  baaaap boop beep beepbop!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Are.. are you sure, BF?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "baaaap boop!"
+		},
+		{
+			"speed": 0.125,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "*sigh*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright then. I’ll get the music.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, let’s go!!... er.. go ahead and join my ‘go live’ stream.. "
+		}
+	]
+}

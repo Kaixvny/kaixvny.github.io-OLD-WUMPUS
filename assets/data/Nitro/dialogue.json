@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Woohoo! Good job, Boyfriend!"
+		},
+		{
+			"speed": 0.085,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "boop beepop."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Urgg!!.. I’m... not.. done.. quite yet!! "
+		},
+		{
+			"speed": 0.18,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beepo."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*snaps*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "..Huhhh?! Where’d that unicycle come from?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "IT’S NOT A UNICYCLE!! IT’S A MOTORCYCLE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Also, you didn’t think I wouldn’t have powers in my own social app, did you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "skdabeep beep skdoo bap..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Best of 3, you’re going down!! Eat my dust!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(...I don’t think that’s convincing us to sponsor with you more..)"
+		}
+	]
+}

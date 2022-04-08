@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				-141
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "wumpus up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				-206
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "wumpus down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-177
+			],
+			"anim": "idle",
+			"fps": 34,
+			"name": "wumpus idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				211,
+				-148
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "wumpus left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				211,
+				-181
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "wumpus right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nitrowumpus",
+	"position": [
+		120,
+		60
+	],
+	"healthicon": "nitrowumpus",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		120,
+		255
+	],
+	"camera_position": [
+		-40,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

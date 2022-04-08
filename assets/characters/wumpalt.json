@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-211
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "wump up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-260
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "wump down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-227
+			],
+			"anim": "idle",
+			"fps": 34,
+			"name": "wump idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-222
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "wump left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-213
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "wump right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wumpalt",
+	"position": [
+		120,
+		60
+	],
+	"healthicon": "nitrowumpus",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		120,
+		255
+	],
+	"camera_position": [
+		-40,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

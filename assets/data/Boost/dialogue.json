@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "beeeep beepaa skdabeep????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well well well... this is it. The final battle... I had to make it more unique ya’ know?.. So I took us to space.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh yeah.. and also because the fact that thousands are watching our stream now because Clyde just HAAD to @everyone about this.. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Bapboop skdabeep???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why so worried? Worried I’m gonna—.. oh wait, your girlfriend. Forgot her down there. Oops. "
+		},
+		{
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "Beeeep beepbop beep beepaa beepaa beepbop boop  skdabeep bopo bep bip?????  beep skbep skbep beepbop be beepo boop!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..I have no idea what you’re saying, but I’m guessing it got you pumped up!! Ready to go? "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Because There’s NO WAY I’m gonna lose now!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "............. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "........."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "......"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh right, your girlfriend had the music.. uhh.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " I’ll just turn on my NitroSuit’s speaker function.. oh, it has a voice changer function too? Didn’t know that.. I’ll just.. flip that on.."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beeeep be beeeep,  bopo bappity skdabeep beep skdoo bap.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "don’t care, let’s do this!"
+		},
+		{
+			"speed": 0.085,
+			"portrait": "wumpus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(..can someone turn on slow mode in the chat..?)"
+		}
+	]
+}

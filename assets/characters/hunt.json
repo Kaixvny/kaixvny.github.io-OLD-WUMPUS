@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-427,
+				-344
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "hunt up"
+		},
+		{
+			"offsets": [
+				-427,
+				-323
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "hunt down"
+		},
+		{
+			"offsets": [
+				-427,
+				-323
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "hunt right"
+		},
+		{
+			"offsets": [
+				-427,
+				-323
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "hunt left"
+		},
+		{
+			"offsets": [
+				-427,
+				-323
+			],
+			"indices": [],
+			"fps": 34,
+			"anim": "idle",
+			"loop": false,
+			"name": "hunt idle"
+		},
+		{
+			"offsets": [
+				-427,
+				-323
+			],
+			"indices": [],
+			"fps": 34,
+			"anim": "sleep",
+			"loop": false,
+			"name": "hunt sleep"
+		},
+		{
+			"offsets": [
+				-427,
+				-323
+			],
+			"indices": [],
+			"fps": 34,
+			"anim": "hurt",
+			"loop": false,
+			"name": "hunt hurt"
+		},
+		{
+			"offsets": [
+				-427,
+				-323
+			],
+			"indices": [],
+			"fps": 7,
+			"anim": "attack",
+			"loop": false,
+			"name": "hunt attack"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hunt",
+	"position": [
+		-440,
+		30
+	],
+	"healthicon": "hunt",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		80
+	],
+	"camera_position": [
+		80,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 7.09999999999999
+}
