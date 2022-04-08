@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bikealt.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wumpus down alt0000" x="3" y="3" width="576" height="545" frameX="-11" frameY="-2" frameWidth="587" frameHeight="547"/>
+	<SubTexture name="wumpus down alt0001" x="3" y="3" width="576" height="545" frameX="-11" frameY="-2" frameWidth="587" frameHeight="547"/>
+	<SubTexture name="wumpus down alt0002" x="582" y="3" width="575" height="547" frameX="-11" frameY="0" frameWidth="587" frameHeight="547"/>
+	<SubTexture name="wumpus down alt0003" x="1160" y="3" width="586" height="547" frameX="0" frameY="0" frameWidth="587" frameHeight="547"/>
+	<SubTexture name="wumpus down alt0004" x="1160" y="3" width="586" height="547" frameX="0" frameY="0" frameWidth="587" frameHeight="547"/>
+	<SubTexture name="wumpus down alt0005" x="1160" y="3" width="586" height="547" frameX="0" frameY="0" frameWidth="587" frameHeight="547"/>
+	<SubTexture name="wumpus down alt0006" x="1749" y="3" width="548" height="547" frameX="-38" frameY="0" frameWidth="587" frameHeight="547"/>
+	<SubTexture name="wumpus down alt0007" x="1749" y="3" width="548" height="547" frameX="-38" frameY="0" frameWidth="587" frameHeight="547"/>
+	<SubTexture name="wumpus down alt0008" x="1749" y="3" width="548" height="547" frameX="-38" frameY="0" frameWidth="587" frameHeight="547"/>
+	<SubTexture name="wumpus idle alt0000" x="2300" y="3" width="572" height="567" frameX="-11" frameY="-1" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0001" x="2875" y="3" width="570" height="568" frameX="-11" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0002" x="3448" y="3" width="566" height="568" frameX="-11" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0003" x="3" y="574" width="572" height="568" frameX="0" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0004" x="578" y="574" width="567" height="568" frameX="0" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0005" x="578" y="574" width="567" height="568" frameX="0" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0006" x="1148" y="574" width="529" height="568" frameX="-38" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0007" x="1148" y="574" width="529" height="568" frameX="-38" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0008" x="1148" y="574" width="529" height="568" frameX="-38" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0009" x="1680" y="574" width="556" height="568" frameX="-11" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0010" x="1680" y="574" width="556" height="568" frameX="-11" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0011" x="1680" y="574" width="556" height="568" frameX="-11" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0012" x="578" y="574" width="567" height="568" frameX="0" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0013" x="578" y="574" width="567" height="568" frameX="0" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0014" x="578" y="574" width="567" height="568" frameX="0" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0015" x="1148" y="574" width="529" height="568" frameX="-38" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0016" x="1148" y="574" width="529" height="568" frameX="-38" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus idle alt0017" x="1148" y="574" width="529" height="568" frameX="-38" frameY="0" frameWidth="583" frameHeight="568"/>
+	<SubTexture name="wumpus left alt0000" x="2239" y="574" width="530" height="588" frameX="-5" frameY="0" frameWidth="535" frameHeight="588"/>
+	<SubTexture name="wumpus left alt0001" x="2239" y="574" width="530" height="588" frameX="-5" frameY="0" frameWidth="535" frameHeight="588"/>
+	<SubTexture name="wumpus left alt0002" x="2772" y="574" width="523" height="581" frameX="-11" frameY="-7" frameWidth="535" frameHeight="588"/>
+	<SubTexture name="wumpus left alt0003" x="3298" y="574" width="534" height="581" frameX="0" frameY="-7" frameWidth="535" frameHeight="588"/>
+	<SubTexture name="wumpus left alt0004" x="3298" y="574" width="534" height="581" frameX="0" frameY="-7" frameWidth="535" frameHeight="588"/>
+	<SubTexture name="wumpus left alt0005" x="3298" y="574" width="534" height="581" frameX="0" frameY="-7" frameWidth="535" frameHeight="588"/>
+	<SubTexture name="wumpus left alt0006" x="3" y="1165" width="496" height="581" frameX="-38" frameY="-7" frameWidth="535" frameHeight="588"/>
+	<SubTexture name="wumpus left alt0007" x="3" y="1165" width="496" height="581" frameX="-38" frameY="-7" frameWidth="535" frameHeight="588"/>
+	<SubTexture name="wumpus left alt0008" x="3" y="1165" width="496" height="581" frameX="-38" frameY="-7" frameWidth="535" frameHeight="588"/>
+	<SubTexture name="wumpus right alt0000" x="502" y="1165" width="636" height="567" frameX="-11" frameY="0" frameWidth="647" frameHeight="567"/>
+	<SubTexture name="wumpus right alt0001" x="502" y="1165" width="636" height="567" frameX="-11" frameY="0" frameWidth="647" frameHeight="567"/>
+	<SubTexture name="wumpus right alt0002" x="1141" y="1165" width="626" height="562" frameX="-11" frameY="-5" frameWidth="647" frameHeight="567"/>
+	<SubTexture name="wumpus right alt0003" x="1770" y="1165" width="637" height="562" frameX="0" frameY="-5" frameWidth="647" frameHeight="567"/>
+	<SubTexture name="wumpus right alt0004" x="1770" y="1165" width="637" height="562" frameX="0" frameY="-5" frameWidth="647" frameHeight="567"/>
+	<SubTexture name="wumpus right alt0005" x="1770" y="1165" width="637" height="562" frameX="0" frameY="-5" frameWidth="647" frameHeight="567"/>
+	<SubTexture name="wumpus right alt0006" x="2410" y="1165" width="599" height="562" frameX="-38" frameY="-5" frameWidth="647" frameHeight="567"/>
+	<SubTexture name="wumpus right alt0007" x="2410" y="1165" width="599" height="562" frameX="-38" frameY="-5" frameWidth="647" frameHeight="567"/>
+	<SubTexture name="wumpus right alt0008" x="2410" y="1165" width="599" height="562" frameX="-38" frameY="-5" frameWidth="647" frameHeight="567"/>
+	<SubTexture name="wumpus up alt0000" x="3012" y="1165" width="572" height="606" frameX="-11" frameY="0" frameWidth="583" frameHeight="606"/>
+	<SubTexture name="wumpus up alt0001" x="3012" y="1165" width="572" height="606" frameX="-11" frameY="0" frameWidth="583" frameHeight="606"/>
+	<SubTexture name="wumpus up alt0002" x="3" y="1774" width="568" height="594" frameX="-11" frameY="-11" frameWidth="583" frameHeight="606"/>
+	<SubTexture name="wumpus up alt0003" x="574" y="1774" width="579" height="594" frameX="0" frameY="-11" frameWidth="583" frameHeight="606"/>
+	<SubTexture name="wumpus up alt0004" x="574" y="1774" width="579" height="594" frameX="0" frameY="-11" frameWidth="583" frameHeight="606"/>
+	<SubTexture name="wumpus up alt0005" x="574" y="1774" width="579" height="594" frameX="0" frameY="-11" frameWidth="583" frameHeight="606"/>
+	<SubTexture name="wumpus up alt0006" x="1156" y="1774" width="541" height="594" frameX="-38" frameY="-11" frameWidth="583" frameHeight="606"/>
+	<SubTexture name="wumpus up alt0007" x="1156" y="1774" width="541" height="594" frameX="-38" frameY="-11" frameWidth="583" frameHeight="606"/>
+	<SubTexture name="wumpus up alt0008" x="1156" y="1774" width="541" height="594" frameX="-38" frameY="-11" frameWidth="583" frameHeight="606"/>
+</TextureAtlas>

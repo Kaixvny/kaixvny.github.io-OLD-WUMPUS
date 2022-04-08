@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_ping.png"><SubTexture name="ping basic0000" x="0" y="0" width="182" height="30" frameX="-5" frameY="-8" frameWidth="277" frameHeight="49" />
+<SubTexture name="ping white0000" x="0" y="30" width="52" height="30" frameX="-5" frameY="-8" frameWidth="277" frameHeight="49" />
+</TextureAtlas>

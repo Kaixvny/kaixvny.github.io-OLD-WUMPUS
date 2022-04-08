@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wumpalt.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wump down alt0000" x="3" y="3" width="285" height="427" frameX="0" frameY="-1" frameWidth="285" frameHeight="428"/>
+	<SubTexture name="wump down alt0001" x="3" y="3" width="285" height="427" frameX="0" frameY="-1" frameWidth="285" frameHeight="428"/>
+	<SubTexture name="wump down alt0002" x="291" y="3" width="280" height="428" frameX="-4" frameY="0" frameWidth="285" frameHeight="428"/>
+	<SubTexture name="wump down alt0003" x="291" y="3" width="280" height="428" frameX="-4" frameY="0" frameWidth="285" frameHeight="428"/>
+	<SubTexture name="wump down alt0004" x="291" y="3" width="280" height="428" frameX="-4" frameY="0" frameWidth="285" frameHeight="428"/>
+	<SubTexture name="wump down alt0005" x="291" y="3" width="280" height="428" frameX="-4" frameY="0" frameWidth="285" frameHeight="428"/>
+	<SubTexture name="wump down alt0006" x="291" y="3" width="280" height="428" frameX="-4" frameY="0" frameWidth="285" frameHeight="428"/>
+	<SubTexture name="wump down alt0007" x="291" y="3" width="280" height="428" frameX="-4" frameY="0" frameWidth="285" frameHeight="428"/>
+	<SubTexture name="wump idle alt0000" x="574" y="3" width="279" height="453"/>
+	<SubTexture name="wump idle alt0001" x="856" y="3" width="274" height="452" frameX="0" frameY="0" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0002" x="1133" y="3" width="269" height="452" frameX="0" frameY="-1" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0003" x="1405" y="3" width="264" height="452" frameX="0" frameY="-1" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0004" x="1672" y="3" width="259" height="451" frameX="0" frameY="-2" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0005" x="1672" y="3" width="259" height="451" frameX="0" frameY="-2" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0006" x="1672" y="3" width="259" height="451" frameX="0" frameY="-2" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0007" x="1672" y="3" width="259" height="451" frameX="0" frameY="-2" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0008" x="1672" y="3" width="259" height="451" frameX="0" frameY="-2" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0009" x="1672" y="3" width="259" height="451" frameX="0" frameY="-2" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0010" x="1672" y="3" width="259" height="451" frameX="0" frameY="-2" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0011" x="1672" y="3" width="259" height="451" frameX="0" frameY="-2" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0012" x="1672" y="3" width="259" height="451" frameX="0" frameY="-2" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0013" x="1672" y="3" width="259" height="451" frameX="0" frameY="-2" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump idle alt0014" x="1672" y="3" width="259" height="451" frameX="0" frameY="-2" frameWidth="279" frameHeight="453"/>
+	<SubTexture name="wump left alt0000" x="3" y="459" width="265" height="457"/>
+	<SubTexture name="wump left alt0001" x="3" y="459" width="265" height="457"/>
+	<SubTexture name="wump left alt0002" x="271" y="459" width="263" height="452" frameX="0" frameY="-4" frameWidth="265" frameHeight="457"/>
+	<SubTexture name="wump left alt0003" x="271" y="459" width="263" height="452" frameX="0" frameY="-4" frameWidth="265" frameHeight="457"/>
+	<SubTexture name="wump left alt0004" x="271" y="459" width="263" height="452" frameX="0" frameY="-4" frameWidth="265" frameHeight="457"/>
+	<SubTexture name="wump left alt0005" x="271" y="459" width="263" height="452" frameX="0" frameY="-4" frameWidth="265" frameHeight="457"/>
+	<SubTexture name="wump left alt0006" x="271" y="459" width="263" height="452" frameX="0" frameY="-4" frameWidth="265" frameHeight="457"/>
+	<SubTexture name="wump left alt0007" x="271" y="459" width="263" height="452" frameX="0" frameY="-4" frameWidth="265" frameHeight="457"/>
+	<SubTexture name="wump left alt0008" x="271" y="459" width="263" height="452" frameX="0" frameY="-4" frameWidth="265" frameHeight="457"/>
+	<SubTexture name="wump left alt0009" x="271" y="459" width="263" height="452" frameX="0" frameY="-4" frameWidth="265" frameHeight="457"/>
+	<SubTexture name="wump right alt0000" x="537" y="459" width="289" height="464"/>
+	<SubTexture name="wump right alt0001" x="537" y="459" width="289" height="464"/>
+	<SubTexture name="wump right alt0002" x="829" y="459" width="285" height="458" frameX="-4" frameY="-6" frameWidth="289" frameHeight="464"/>
+	<SubTexture name="wump right alt0003" x="829" y="459" width="285" height="458" frameX="-4" frameY="-6" frameWidth="289" frameHeight="464"/>
+	<SubTexture name="wump right alt0004" x="829" y="459" width="285" height="458" frameX="-4" frameY="-6" frameWidth="289" frameHeight="464"/>
+	<SubTexture name="wump right alt0005" x="829" y="459" width="285" height="458" frameX="-4" frameY="-6" frameWidth="289" frameHeight="464"/>
+	<SubTexture name="wump right alt0006" x="829" y="459" width="285" height="458" frameX="-4" frameY="-6" frameWidth="289" frameHeight="464"/>
+	<SubTexture name="wump right alt0007" x="829" y="459" width="285" height="458" frameX="-4" frameY="-6" frameWidth="289" frameHeight="464"/>
+	<SubTexture name="wump up alt0000" x="1117" y="459" width="277" height="464"/>
+	<SubTexture name="wump up alt0001" x="1117" y="459" width="277" height="464"/>
+	<SubTexture name="wump up alt0002" x="1397" y="459" width="273" height="460" frameX="-2" frameY="-4" frameWidth="277" frameHeight="464"/>
+	<SubTexture name="wump up alt0003" x="1397" y="459" width="273" height="460" frameX="-2" frameY="-4" frameWidth="277" frameHeight="464"/>
+	<SubTexture name="wump up alt0004" x="1397" y="459" width="273" height="460" frameX="-2" frameY="-4" frameWidth="277" frameHeight="464"/>
+	<SubTexture name="wump up alt0005" x="1397" y="459" width="273" height="460" frameX="-2" frameY="-4" frameWidth="277" frameHeight="464"/>
+	<SubTexture name="wump up alt0006" x="1397" y="459" width="273" height="460" frameX="-2" frameY="-4" frameWidth="277" frameHeight="464"/>
+	<SubTexture name="wump up alt0007" x="1397" y="459" width="273" height="460" frameX="-2" frameY="-4" frameWidth="277" frameHeight="464"/>
+</TextureAtlas>

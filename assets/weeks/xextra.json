@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"get-real",
+			"spacewumpus",
+			[
+				0,
+				0,
+				33
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "extra",
+	"difficulties": "Easy, Normal, Hard, @everyone",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Extras",
+	"weekName": "extra",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "wumpus",
+	"startUnlocked": false
+}

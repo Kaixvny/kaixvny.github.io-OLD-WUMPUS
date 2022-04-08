@@ -1,0 +1,49 @@
+{
+	"storyName": "Ping Mayhem!!!",
+	"difficulties": "Hard, @everyone",
+	"hideFreeplay": false,
+	"weekBackground": "wumpus",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"WUMPUS",
+			"wumpus",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"NITRO",
+			"nitrowumpus",
+			[
+				255,
+				120,
+				35
+			]
+		],
+		[
+			"BOOST",
+			"spacewumpus",
+			[
+				0,
+				20,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"wumpus",
+		"bf",
+		"gf"
+	],
+	"weekName": "wumpus"
+}

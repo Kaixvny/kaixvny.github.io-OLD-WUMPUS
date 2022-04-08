@@ -1,0 +1,10 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		50,
+		40
+	],
+	"scale": 1.45,
+	"animations": [],
+	"image": "wumpus"
+}
